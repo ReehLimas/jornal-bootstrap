@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(222, 217, 217);
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+
+  p.inset {border-style: inset;}
+
+  .header {
+    background-color: rgb(72, 39, 39);
+    padding: 20px;
+    text-align: center;
+  }
